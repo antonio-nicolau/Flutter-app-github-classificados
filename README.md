@@ -1,4 +1,4 @@
-#Flutter app GitHub classificados
+# Flutter app GitHub classificados
 
 ## Aplicativo desenvolvido em Flutter para mostrar os 100 primeiros classificados no GitHub
 
