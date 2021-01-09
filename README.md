@@ -6,9 +6,9 @@
 
 
 ## Como começar
-1. Clone o repositório na sua máquina ou faça download dele.
-2. Abra o arquivo pubspeck.yaml para poder instalar os packages usados
+### 1. Clone o repositório na sua máquina ou faça download dele.
+### 2. Abra o arquivo pubspeck.yaml para poder instalar os packages usados
 
 ## Packages usados
-http - para consumir a api
-url_launcher - para poder abrir o navegador
+### http - para consumir a api
+### url_launcher - para poder abrir o navegador
